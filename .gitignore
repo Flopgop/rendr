@@ -1,0 +1,7 @@
+# intellij
+/bin/*
+/.idea/*
+
+# vscode
+*.exe
+ols.json
